@@ -1,6 +1,6 @@
 # Le 05/10 à Montpellier : Rendre mon projet environnemental économiquement viable
 
-On se retrouve le vendredi 5 octobre, de 9h30 à 18h dans l'Ecusson ou pas loin, à Montpellier.
+On se retrouve vendredi 5 octobre, de 9h30 à 18h dans l'Ecusson ou pas loin, à Montpellier.
 
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
 
@@ -45,3 +45,5 @@ Envoie simplement un email à sabine.safi at gmail.com.
 Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.
 
 **Pour plus d'informations : [voir la FAQ](../FAQ-journee-cogitation.md)**
+
+# 
