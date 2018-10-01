@@ -11,11 +11,11 @@ Nous faisons donc le choix d'être transparent.e.s sur les coûts et les bénéf
 
 ## En gros, ça coûte combien une journée de cogitation ?
 
-Tablons sur 7 participant.e.s dont 2 organisateur.rice.s (leurs consommations sont offertes) et 5 étapes. Les montants ci-dessous sont donnés à titre d'exemple, évidememnt chaque journée est un peu différente.
+Tablons sur 7 participant.e.s dont 2 organisateur.rice.s (leurs consommations sont offertes) et 5 étapes. Les montants ci-dessous sont donnés à titre d'exemple, évidemment chaque journée est un peu différente.
 
 ### Coûts directs de la journée
 - Etape 1 : petit-déj, 6€ /pers --> 42€
-- Etape 2 : 1 boisson, 3€ /pers --> 21€
+- Etape 2 : une boisson, 3€ /pers --> 21€
 - Etape 3 : déjeuner, 15€ /pers --> 105€
 - Etape 4 : une boisson, 3€ /pers --> 21€
 - Etape 5 : goûter, 6€ /pers --> 42€
@@ -24,12 +24,12 @@ Total : 231€ soit 46€ /pers
 
 ### Coûts d'organisation
 
-2 organisateur.rice.s sont là à chaque journée et souvent ils se déplacent loin de leur domicile.
+Deux organisateur.rice.s sont là à chaque journée et souvent ils se déplacent loin de leur domicile.
 On a donc des coûts de transports en commun et d'hébergement, + de préparation de la journée, la veille.
 
 On estime ces coûts d'organisation à 100€ par journée *en moyenne*.
 Si on répartit ces coûts supplémentaires sur les 5 participant.e.s non organisateurs, cela fait 25€ supplémentaires par personne, soit 71€ en tout. 
-On est prêt.e.s à financer nous-mêmes ces frais d'organisation. Mais s'il y a du surplus par rapport aux frais de consommation dans la journée, ça sera une aide bienvenue :)
+On est prêt.e.s à financer nous-mêmes ces frais d'organisation. Mais s'il y a du surplus par rapport aux frais de consommation dans la journée, ça sera une aide bienvenue :).
 
 ## Et si on n'a pas assez pour financer les consommations ?
 
@@ -37,5 +37,5 @@ On en discutera en début de journée et on ajustera ce qu'on boit et ce qu'on m
 
 ## J'ai encore des questions ou des remarques !
 
-La discussion préalable de 30 min avec tout.e.s les participant.e.s sert à ça :)
-Tu peux aussi nous contacter par écrit [via la page de contact](nous-contacter.html) - on n'attend que ça ;)
+La discussion préalable de 30 min avec tout.e.s les participant.e.s sert à ça :).
+Tu peux aussi nous contacter par écrit [via la page de contact](nous-contacter.html) - on n'attend que ça ;) !
